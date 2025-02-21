@@ -1,10 +1,11 @@
 ![](https://github.com/wilypratham41/wilypratham41/blob/main/linked%20in%20BG.jpeg)
 <h1 align="center">Hi 👋, I'm Prathamesh Bhavsar</h1>
-<h3 align="center">Enthusiastic software engineer</h3>
+<h3 align="center">Enthusiastic Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilypratham41&label=Profile%20views&color=0e75b6&style=flat" alt="wilypratham41" /> </p>
 
-- 🌱 I’m currently learning **ReactJS,Spring Framework **
+- 💻 Full stack Java Developer **
+- 🔐 Cyber Security Explorer
 
 - 📫 How to reach me **prathbhavsar13@gmail.com**
 
