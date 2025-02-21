@@ -23,7 +23,7 @@
   </a>
 
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-boot" width="80" height="40" style="vertical-align: middle;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-boot" width="80" height="60" style="vertical-align: middle;"/>
   </a>
 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
